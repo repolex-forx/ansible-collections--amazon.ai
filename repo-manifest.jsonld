@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/ansible-collections/amazon.ai/commit/8440f6b92880273c3329f09ddca990cdebdc45fc",
       "git:hexsha": "8440f6b92880273c3329f09ddca990cdebdc45fc",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-11-07T13:41:59.011954+00:00"
     },
     {
       "@id": "https://repolex.ai/r/ansible-collections/amazon.ai/commit/b953e137a036b06daf676b840f4646b21267530e",
